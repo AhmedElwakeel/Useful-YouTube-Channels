@@ -5,6 +5,9 @@ Useful Youtube Channels for Electronics and Mechanical
   <img width="100%" height="100%" src="./Images/Intro.png">
 </p>
 
+
+thanks To Omar K MEKKAWY
+
 # Electronics
 | # | Channel Name | Language | Link |
 | - | ------------ | -------- | ---- |
